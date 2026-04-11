@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+pydantic-settings
+python-dotenv
+python-multipart
+httpx
+aiofiles
+
+langchain
+langgraph
+langchain-anthropic
+
+tiktoken
+
+pytest
