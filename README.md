@@ -36,9 +36,7 @@ Instead of just telling you **what is happening**, ShipIt helps you decide **wha
 ---
 
 ## 🧠 How It Works
-```
 Events → State Update → Risk Detection → Exceptions → AI Suggestions → Human Action
-```
 
 ---
 
