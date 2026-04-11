@@ -20,11 +20,10 @@ Instead of just telling you **what is happening**, ShipIt helps you decide **wha
 <img width="255" height="535" alt="image" src="https://github.com/user-attachments/assets/8b1a36b9-befb-4db5-b010-b8871691368c" /> <img width="255" height="535" alt="image" src="https://github.com/user-attachments/assets/405239b8-cb01-42c0-aebf-85caf5261f03" /> <img width="255" height="535" alt="image" src="https://github.com/user-attachments/assets/a3adf003-e5f8-412a-93ed-ecf20a2f48e1" />
 
 
-<img width="1123" height="793" alt="image" src="https://github.com/user-attachments/assets/67a3960a-fd06-43f3-a7e5-6d9b8abe8f85" />
-<img width="963" height="692" alt="image" src="https://github.com/user-attachments/assets/d2b90151-3177-42e9-bb12-0e93280a354a" />
-<img width="972" height="694" alt="image" src="https://github.com/user-attachments/assets/598a1740-ef15-43b3-a3fe-b267f292239f" />
-<img width="1001" height="678" alt="image" src="https://github.com/user-attachments/assets/8498ccc0-2b97-448d-8740-d73324cf904f" />
-<img width="959" height="645" alt="image" src="https://github.com/user-attachments/assets/b6a5b2e6-bdde-4ef3-b149-5b5058ecef52" />
+<img width="749" height="529" alt="image" src="https://github.com/user-attachments/assets/67a3960a-fd06-43f3-a7e5-6d9b8abe8f85" />
+<img width="749" height="529" alt="image" src="https://github.com/user-attachments/assets/598a1740-ef15-43b3-a3fe-b267f292239f" />
+<img width="749" height="529" alt="image" src="https://github.com/user-attachments/assets/8498ccc0-2b97-448d-8740-d73324cf904f" />
+<img width="749" height="529" alt="image" src="https://github.com/user-attachments/assets/b6a5b2e6-bdde-4ef3-b149-5b5058ecef52" />
 
 ## 🚀 Key Features
 - **Unified Dashboard** – Real-time visibility across shipments and alerts  
