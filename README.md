@@ -16,11 +16,8 @@ Instead of just telling you **what is happening**, ShipIt helps you decide **wha
 ---
 
 ## 🖥️ Product Preview
-<img width="511" height="1071" alt="image" src="https://github.com/user-attachments/assets/feaa5b67-4f5e-46ab-b3cc-510055a71b78" />
-<img width="518" height="1075" alt="image" src="https://github.com/user-attachments/assets/100c0b06-4959-41b8-9180-291d3ae67a4c" />
-<img width="511" height="1069" alt="image" src="https://github.com/user-attachments/assets/8b1a36b9-befb-4db5-b010-b8871691368c" />
-<img width="512" height="1075" alt="image" src="https://github.com/user-attachments/assets/405239b8-cb01-42c0-aebf-85caf5261f03" />
-<img width="512" height="1074" alt="image" src="https://github.com/user-attachments/assets/a3adf003-e5f8-412a-93ed-ecf20a2f48e1" />
+<img width="511" height="1071" alt="image" src="https://github.com/user-attachments/assets/feaa5b67-4f5e-46ab-b3cc-510055a71b78" /> <img width="518" height="1075" alt="image" src="https://github.com/user-attachments/assets/100c0b06-4959-41b8-9180-291d3ae67a4c" />
+<img width="511" height="1069" alt="image" src="https://github.com/user-attachments/assets/8b1a36b9-befb-4db5-b010-b8871691368c" /> <img width="512" height="1075" alt="image" src="https://github.com/user-attachments/assets/405239b8-cb01-42c0-aebf-85caf5261f03" /> <img width="512" height="1074" alt="image" src="https://github.com/user-attachments/assets/a3adf003-e5f8-412a-93ed-ecf20a2f48e1" />
 
 
 <img width="1123" height="793" alt="image" src="https://github.com/user-attachments/assets/67a3960a-fd06-43f3-a7e5-6d9b8abe8f85" />
