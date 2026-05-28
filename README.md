@@ -3,7 +3,7 @@
 
 ![Status](https://img.shields.io/badge/status-active-success)
 ![Backend](https://img.shields.io/badge/backend-FastAPI-blue)
-![Frontend](https://img.shields.io/badge/frontend-React%20%7C%20Flutter-orange)
+![Frontend](https://img.shields.io/badge/frontend-%20%7C%20Flutter-orange)
 ![AI](https://img.shields.io/badge/AI-LLM%20Enabled-purple)
 
 ---
